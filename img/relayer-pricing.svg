@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="629px" height="151px" viewBox="0 0 629 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>relayer-pricing@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="relayer-pricing" sketch:type="MSLayerGroup" fill="#303030">
+            <g id="relayer-logo_mask" sketch:type="MSShapeGroup">
+                <path d="M83.4220207,115.205054 C86.5976538,118.380687 86.5976538,123.577326 83.4220207,126.752959 L74.7610917,135.413888 C71.5854586,138.58993 66.3888195,138.58993 63.2131864,135.413888 L2.58586686,74.7869769 C-0.589766272,71.6113438 -0.589766272,66.4147047 2.58586686,63.2390716 L11.2467959,54.5781426 C14.422429,51.4021012 19.619068,51.4021012 22.7951095,54.5781426 L83.4220207,115.205054 Z" id="Fill-1"></path>
+                <path d="M109.405053,89.2220219 C112.580686,92.397655 112.580686,97.5942941 109.405053,100.769927 L100.744124,109.430856 C97.5684905,112.606898 92.3718515,112.606898 89.1962183,109.430856 L28.5688988,48.803945 C25.3932657,45.6283118 25.3932657,40.4316728 28.5688988,37.2560396 L37.2298278,28.5951107 C40.4054609,25.4190692 45.6021,25.4190692 48.7781414,28.5951107 L109.405053,89.2220219 Z" id="Fill-5"></path>
+                <path d="M135.388125,63.2389899 C138.563759,66.4146231 138.563759,71.6112621 135.388125,74.7868953 L126.727196,83.4478243 C123.551563,86.6238657 118.354924,86.6238657 115.179291,83.4478243 L54.5519716,22.820913 C51.3763385,19.6452799 51.3763385,14.4486408 54.5519716,11.2730077 L63.2129006,2.6120787 C66.3885337,-0.563962722 71.5851728,-0.563962722 74.7612142,2.6120787 L135.388125,63.2389899 Z" id="Fill-9"></path>
+            </g>
+            <text id="Pricing" sketch:type="MSTextLayer" font-family="ChronicaPro-Bold" font-size="136" font-weight="bold" sketch:alignment="middle">
+                <tspan x="172.372" y="119">Pricing</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
